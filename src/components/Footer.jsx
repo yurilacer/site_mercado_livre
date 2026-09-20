@@ -19,11 +19,10 @@ function Footer() {
             </ul>
           </div>
           <div>
-            <h4>Ajuda</h4>
+            <h4>Legal</h4>
             <ul>
-              <li><a href="#">Central de ajuda</a></li>
-              <li><a href="#">Como comprar</a></li>
-              <li><a href="#">Trocas e devoluções</a></li>
+              <li><a href="/privacidade.html">Política de Privacidade</a></li>
+              <li><a href="/termos.html">Termos de Serviço</a></li>
             </ul>
           </div>
           <div>
