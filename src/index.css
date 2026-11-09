@@ -463,6 +463,22 @@ footer{
   color:#5f5c8a;
 }
 
+.footer-bottom p{
+  margin:0 0 6px;
+}
+
+.footer-bottom p:last-child{
+  margin-bottom:0;
+}
+
+.footer-legal{
+  color:#8d8ab8;
+}
+
+.footer-legal strong{
+  color:#c7c5ea;
+}
+
 @media (max-width:900px){
   .footer-grid{grid-template-columns:repeat(2,1fr);}
 }

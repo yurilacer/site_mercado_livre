@@ -35,7 +35,8 @@ function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          © 2026 Yuden. Todos os direitos reservados. Site em construção — em breve novidades!
+          <p>© 2026 Yuden. Todos os direitos reservados. Site em construção — em breve novidades!</p>
+          <p className="footer-legal"><strong>JR ANALYTICS LTDA</strong> | CNPJ: 30.165.848/0001-31</p>
         </div>
       </div>
     </footer>
